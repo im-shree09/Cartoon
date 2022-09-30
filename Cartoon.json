@@ -101,6 +101,12 @@
     "Creator":"Nick Park",
     "Status":"ongoing"
   },
-
+{
+    "id":15,
+    "CartoonName":"Dora the Explorer",
+    "MainCharacter":["Dora, Monkey"],
+    "Creator":"Eric Weiner",
+    "Status":"ongoing"
+  },
 
 ]
